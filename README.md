@@ -105,6 +105,7 @@ things this collection could use:
 * Funny Sorcerer Retro 3D Character: https://stephrobertgames.itch.io/funny-sorcerer-retro-3d-character-psx-n64
 * PSX Style Biblically Accurate Angel (Throne): https://taogyre.itch.io/ps1psx-style-biblically-accurate-angel
 * PSX/PS1 Biblically Accurate Angel (Seraphim): https://taogyre.itch.io/psxps1-biblically-accurate-angel-seraphim
+* PSX style modular medieval buildings: https://valsekamerplant.itch.io/psx-style-going-medieval
 
 ## Other
 * 32x32 prototype textures: https://opengameart.org/content/prototype-textures-32x32px
