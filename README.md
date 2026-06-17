@@ -41,6 +41,7 @@ things this collection could use:
 * low poly PSX Tree: https://mextie.itch.io/low-poly-psx-tree
 * PSX style house plants: https://valsekamerplant.itch.io/psx-style-house-plants-and-pots
 * Retro Tree Pack: https://pizzadoggy.itch.io/retro-tree-pack
+* Ultimate Retro Tree Pack: https://elegantcrow.itch.io/ultimate-retro-psx-tree-pack
 
 ## Contemporary
 * urban kit(100 models): https://kenney.nl/assets/retro-urban-kit
