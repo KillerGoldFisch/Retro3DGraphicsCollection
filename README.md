@@ -111,6 +111,7 @@ things this collection could use:
 
 ## Other
 * 32x32 prototype textures: https://opengameart.org/content/prototype-textures-32x32px
+* Complete PSX UI: https://rohhsa.itch.io/free-psx-ui
 
 ## Shaders
 * unreal retro shaders: https://github.com/DaveFace/UnrealRetroShaders
